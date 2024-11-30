@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Taj-Eldeen (ITI 9 months prgram Mobile native )</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Taj-Eldeen</h1>
+<h1>(ITI 9 months prgram Mobile native )</h1>
 <h2 align="center">Software Engineer </h2>
 <h3 align="left">I have a degree in Artificial Intelligence and over one year of experience in Odoo development </h3>
 
@@ -12,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-tag-eldeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-tag-eldeen/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-tag-eldeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-tag-eldeen/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohamedtajeldin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamedtajeldin1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dataj-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dataj-ai" height="30" width="40" /></a>
 </p>
