@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Mohamed Taj-Eldeen</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Taj-Eldeen (ITI 9 months prgram Mobile native )</h1>
+<h2 align="center">Software Engineer </h2>
+<h3 align="left">I have a degree in Artificial Intelligence and over one year of experience in Odoo development </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataj-ai&label=Profile%20views&color=0e75b6&style=flat" alt="dataj-ai" /> </p>
 
