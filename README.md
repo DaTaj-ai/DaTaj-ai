@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Taj-Eldeen</h1>
-<h1>(ITI 9 months prgram Mobile native )</h1>
+<h1 align="center >(ITI 9 months prgram Mobile native )</h1>
 <h2 align="center">Software Engineer </h2>
 <h3 align="left">I have a degree in Artificial Intelligence and over one year of experience in Odoo development </h3>
 
