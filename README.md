@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Taj-Eldeen</h1>
-<h1 align="center">(ITI 9 months prgram Mobile native )</h1>
 <h2 align="center">Software Engineer </h2>
-<h3 align="left">I have a degree in Artificial Intelligence and over one year of experience in Odoo development </h3>
-
+<h2 align="left">I have a degree in Artificial Intelligence and over one year of experience in Odoo development </h2>
+<h2 align="center">(ITI 9 months prgram Mobile native )</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataj-ai&label=Profile%20views&color=0e75b6&style=flat" alt="dataj-ai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dataj-ai" alt="dataj-ai" /></a> </p>
 
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Ask me about **Artificial Intelligence, odoo, python development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohamed-tag-eldeen/**
+- 📫 How to reach me **https://www.linkedin.com/in/mohamed-tag-eldeen/****mohamedtajeldinai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
