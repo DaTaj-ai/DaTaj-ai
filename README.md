@@ -8,7 +8,9 @@
 
 - 💬 Ask me about **Artificial Intelligence, odoo, python development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohamed-tag-eldeen/****mohamedtajeldinai@gmail.com**
+- 📫 How to reach me: 
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tag-eldeen/)
+  - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedtajeldinai@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
